@@ -35,7 +35,6 @@ BOOKING: You can book your room with various options in it which cost varries li
         c)NON A.C. ROOM
         d)DOUBLE-BED ROOM
         e)SINGLE-ROOM
-
 	![image](https://raw.githubusercontent.com/Gbirla06/Hotel_Management/master/img/2.png)
 	![image](https://raw.githubusercontent.com/Gbirla06/Hotel_Management/master/img/3.png)
 
